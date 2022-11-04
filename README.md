@@ -4,7 +4,7 @@
 
 ## 目录
 
-包含两个文件夹：Initial 和 RealCUGAN4x。Initial 中有 Stable Diffusion 直接生成的、未经处理的、包含生成信息数据的图片（有筛选），RealCUGAN4x 是使用 Real-GUGAN 进行降噪并放大到 4 倍大小的图片（部分图片有处理）。
+包含两个文件夹：Initial 和 RealCUGAN4x。Initial 中有 Stable Diffusion 直接生成的、未经处理的、包含生成信息数据的图片（有筛选），RealCUGAN4x 是使用 Real-CUGAN 进行降噪并放大到 4 倍大小的图片（部分图片有处理）。
 
 ## 涉及的正向关键词
 
