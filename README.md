@@ -12,7 +12,7 @@
 {{masterpiece}}, illustration, {wallpaper}, checkered, incredibly detailed, {extremely detailed}, absurdres, best quality, highly detailed, official art, doujinshi, solo focus, blurry background, solo, {{{zhiyu moke \(vocaloid\)}}}, {{{boy}}}, {{{1boy}}}, {{{cute boy}}}, {{{shota}}}, short hair, dark blue hair, blue eyes, small ahoge, {cat ears}, {cat tail}
 ```
 
-这些关键词可以确保生成带有猫耳猫尾的 moke 的图片，但是可能会随机出现逻辑问题，比如缺失的猫耳或凭空出现的猫尾等，需自行筛选或者添加负向关键词进行限定。根据使用训练集模型的不同，生成图片的画风或细节可能也会有不同。
+这些关键词可以确保生成带有猫耳猫尾的 moke 的图片，但是可能会随机出现逻辑问题，比如缺失的猫耳或凭空出现的猫尾等，需自行筛选、增减权重或者添加负向关键词进行限定。根据使用训练集模型的不同，生成图片的画风或细节可能也会有不同。
 
 可以根据自己的 XP 系统对关键词进行微调。比如加入 `serafuku` 可以让 moke 穿上水手服（不过最好搭配 `trousers` 使用以避免生成裙子）；`leaning forward` 可以使身体呈前倾的姿态；如果不想看到有呆毛的 moke，可以删掉关键词 `small ahoge`。
 
@@ -43,5 +43,3 @@ git clone https://github.com/leisquid/MokeCat-DrawnByStableDiffusion.git
 李逍鱿（leisquid）
 
 2022.11.4
-
-
