@@ -1,6 +1,6 @@
 # MokeCat-DrawnByStableDiffusion
 
-由 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) 绘制的[徵羽摩柯](https://zh.moegirl.org.cn/%E5%BE%B5%E7%BE%BD%E6%91%A9%E6%9F%AF)（VOCALOID 角色）的猫人形象的图片。
+由 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 绘制的[徵羽摩柯](https://zh.moegirl.org.cn/%E5%BE%B5%E7%BE%BD%E6%91%A9%E6%9F%AF)（VOCALOID 角色）的猫人形象的图片。
 
 ## 目录
 
