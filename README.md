@@ -20,11 +20,16 @@
 
 只需 `clone` 下来即可。
 
-```
+```shell
 git clone https://github.com/leisquid/MokeCat-DrawnByStableDiffusion.git
 ```
 
-由于仓库可能不定时更新，所以不打包配布。
+由于仓库可能不定时更新，所以不打包配布。您也可以随时 `pull` 来获取新图片。
+
+```shell
+cd MokeCat-DrawnByStableDiffusion
+git pull
+```
 
 ## 使用规则
 
@@ -43,3 +48,5 @@ git clone https://github.com/leisquid/MokeCat-DrawnByStableDiffusion.git
 李逍鱿（leisquid）
 
 2022.11.4
+
+2022.12.4 更新
