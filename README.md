@@ -45,7 +45,7 @@ git pull
 
 如果有什么问题请告诉我（提 issue 或者去 [B 站](https://space.bilibili.com/21790370)私信皆可）罢，我什么都会做的。
 
-李逍鱿（leisquid）
+李逍鱿（leisquid）的 GitHub 仓库
 
 2022.11.4
 
