@@ -1,5 +1,7 @@
 # MokeCat-DrawnByStableDiffusion
 
+## 仅使用了 Latest 和 Anything 3.0 这两个 Stable Diffusion ，通过文生图模式模型作画，没有使用其他辅助模型，没有使用图生图模式，更没有自行炼丹！！！如有和其他画师画风雷同的情况，纯属巧合！！！
+
 由 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 绘制的[徵羽摩柯](https://zh.moegirl.org.cn/%E5%BE%B5%E7%BE%BD%E6%91%A9%E6%9F%AF)（VOCALOID 角色）的猫人形象的图片。
 
 ## 目录
